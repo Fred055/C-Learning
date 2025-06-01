@@ -26,11 +26,7 @@ void Yarat()
     }
 }
 
-    class Student
-    {
-        public string Name { get; set; }
-
-    }
+   x
 
 
    
